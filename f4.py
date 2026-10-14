@@ -1,6 +1,3 @@
-students={student1:{"ravi",20},
-          student2:{"raju",21},
-          student3:{"ram",22}}}
-print(students)
-print(students["student1"])
-print(students["student1"]["name"])
+employee={"emp1":"ravi","salary":20000},"emp2":"raju","salary":25000}
+print(employee["emp1"]["salary"])
+print(employee["emp2"]["name"])
