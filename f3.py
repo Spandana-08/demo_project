@@ -1,5 +1,5 @@
-students=[{10,20,30},
-          {40,50,60},]
+students=[{1,2,3},
+          {4,5,6},]
 print(students)
-print(20 in students[0])
-print(50 in students[1])
+print(2 in students[0])
+print(5 in students[1])
